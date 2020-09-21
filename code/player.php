@@ -5,7 +5,6 @@ require 'Suit.php';
 require 'Card.php';
 require 'Deck.php';
 
-
 class Player {
 
     // properties
