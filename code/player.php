@@ -14,22 +14,28 @@ class Player {
 
     // methods
     public function Hit(){
+
 }
 
     public function Surrender(){
+
 }
 
     public function getScore() {
+
 }
 
     public function hasLost() {
+
 }
 
     public function __construct(){
 
     }
-
-
 }
+
+
+
+
 
 
